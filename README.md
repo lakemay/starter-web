@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-This is an example
+This is an example, Stagin
 
 ## Purpose
 As stated above,
