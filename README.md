@@ -22,3 +22,4 @@ Please fork
 ### Copyright
 
 Copyright description
+All rights reserved.
