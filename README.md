@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 This is an example, Stagin
-More line
+More line, more changes
 
 ## Purpose
 As stated above,
