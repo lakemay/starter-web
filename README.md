@@ -15,7 +15,8 @@ Sample website with plenty of files for demos
 
 This is to deploy
 
-## Contribute
+## How to Contribute
 
 ### Copyright
+
 Copyright description
